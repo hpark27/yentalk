@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.themarks.yentalk">
+
+    <!-- read external storage -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_icon_round"
+        android:supportsRtl="true"
+        android:fullBackupContent="true"
+        android:requestLegacyExternalStorage="true"
+        android:theme="@style/Theme.Yentalk">
+
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".SubMainActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".CommunityActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".MeetingActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/LoginTheme"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".NoticeActivity"
+            android:theme="@style/LoginTheme"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".BulletinActivity"
+            android:theme="@style/LoginTheme"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".ScheduleActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".PrayActivity"
+            android:theme="@style/LoginTheme"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".FacilityActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".ManageActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".NoticeEditActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".NoticeViewActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".NoticeContentActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".PrayEditActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".PrayViewActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".PrayContentActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".NewComerActivity"
+            android:theme="@style/LoginTheme"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".NewComerEditActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".NewComerViewActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

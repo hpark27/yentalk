@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lolmc KM</string>
+    <string name="lolmc">Light of Love Mission Church</string>
+    <string name="lolmc_kr">Light of Love Mission Church</string>
+    <string name="title">KM Young Adults</string>
+    <string name="description">Description</string>
+    <string name="app_open">Open With</string>
+
+    <!-- App package -->
+    <string name="youtube_package">com.google.android.youtube</string>
+    <string name="instagram_package">com.instagram.android</string>
+
+    <!-- Website address -->
+    <string name="lolmc_youtube">https://www.youtube.com/channel/UCp2jghiPhBoCMqevRyUyOUQ</string>
+    <string name="lolmc_instagram">https://www.instagram.com/lolmc_themarks/</string>
+
+    <!-- Login Activity -->
+    <string name="login_title">"Come, Let us Worship and Bow down"</string>
+    <string name="login_subtitle">Psalm 95:6</string>
+    <string name="google">Sign in with Google</string>
+    <string name="yeheun_title">Who we are</string>
+    <string name="yeheun_subtitle1">Community with Christ\'s love, life, hope, and joy.</string>
+    <string name="yeheun_subtitle2">We engrave the traces of Jesus into our hearts\nand convey those traces to the world.</string>
+    <string name="yeheun_subtitle3">We invite you to praise and worship, and\nwelcome you to a place of sharing and serving</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <!-- Main Activity -->
+    <string name="community">About</string>
+    <string name="map">Meeting</string>
+    <string name="bulletin">Bulletin</string>
+    <string name="notice">Notice</string>
+    <string name="visitor">Newcomer</string>
+    <string name="pray">Prayer</string>
+
+    <!-- Community Activity -->
+    <string name="yeheun_subtitle4">Yeaheun community consists of two major teams\nCell groups and a ministry team.</string>
+    <string name="yeheun_subtitle5">Share the word of God and the adaptation of it\ninto our life during Cell meetings. </string>
+    <string name="yeheun_subtitle6">Learn giving and serving others\nthrough a specialized ministry team.</string>
+
+    <!-- Meeting Activity -->
+    <string name="worship1">Worship and Meeting</string>
+    <string name="worship2">Worship</string>
+    <string name="worship3">Sunday 2:00 PM</string>
+    <string name="worship4">Friday Night Worship</string>
+    <string name="worship5">7:45 PM\nat Main Sanctuary</string>
+    <string name="meeting1">Cell meeting</string>
+    <string name="meeting2">After worship</string>
+    <string name="location1">Address &amp;</string>
+    <string name="location2">2801 E. Colorado Blvd.Pasadena, CA 91107</string>
+    <string name="contact">Tel. (626) 744–9191</string>
+    <string name="facility">Facility</string>
+
+    <!-- Bulletin Activity -->
+    <string name="url">URL</string>
+    <string name="upload">Upload</string>
+    <string name="pdfTitle">Enter URL</string>
+
+    <!-- Facility Activity -->
+    <string name="facilityMap">Church Map</string>
+
+    <!-- Notice Activity -->
+    <string name="noticeTitle">Title</string>
+    <string name="noticeContent">Content</string>
+    <string name="noticeDate">Date</string>
+
+    <!-- Pray Activity -->
+    <string name="prayTitle">Name</string>
+    <string name="prayContent">Prayer Request</string>
+    <string name="prayDate">Date</string>
+
+    <!-- Manage Activity -->
+    <string name="manageBulletin">Bulletin</string>
+    <string name="manageNotice">Notice</string>
+    <string name="manageNewbie">New comer</string>
+    <string name="managePray">Pray</string>
+
+    <!-- NewComer Activity -->
+    <string name="newbieTitle">Newcomer Registration Card</string>
+    <string name="newbieName">Name</string>
+    <string name="newbieBirth">Date of birth</string>
+    <string name="newbieBirth2">Birthday</string>
+    <string name="newbieMale">Man</string>
+    <string name="newbieFemale">Woman</string>
+    <string name="newbieAddress">Address</string>
+    <string name="newbieContact">Contact</string>
+    <string name="newbieNew">New believer</string>
+    <string name="newbieBaptism">Baptism</string>
+    <string name="newbieRide">Ride</string>
+    <string name="newbieImage">Pick Image</string>
+
+    <!-- Calendar Activity -->
+    <string name="schedule">Schedule</string>
+
+    <!-- Phrase -->
+    <string name="phrase1">The lord is my strength and my shield.\nMy heart trusts in him, and he helps me</string>
+    <string name="phrase2">Psalm 28:7</string>
+
+    <!-- Bottom navigation -->
+    <string name="bot_youtube">Youtube</string>
+    <string name="bot_instagram">Instagram</string>
+
+    <!-- Navigation -->
+    <string name="menu_access">Access Restricted</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_upload">Upload</string>
+    <string name="menu_logout">Logout</string>
+</resources>

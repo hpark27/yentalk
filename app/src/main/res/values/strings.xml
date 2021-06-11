@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">예흔공동체</string>
+    <string name="lolmc">Light of Love Mission Church</string>
+    <string name="lolmc_kr">사랑의 빛 선교교회</string>
+    <string name="title">예흔 공동체</string>
+    <string name="description">Description</string>
+    <string name="app_open">Open With</string>
+
+    <!-- App package -->
+    <string name="youtube_package">com.google.android.youtube</string>
+    <string name="instagram_package">com.instagram.android</string>
+
+    <!-- Website address -->
+    <string name="lolmc_youtube">https://www.youtube.com/channel/UCp2jghiPhBoCMqevRyUyOUQ</string>
+    <string name="lolmc_instagram">https://www.instagram.com/lolmc_themarks/</string>
+
+    <!-- Login Activity -->
+    <string name="login_title">"Come, Let us Worship and Bow down"</string>
+    <string name="login_subtitle">Psalm 95:6</string>
+    <string name="google">Sign in with Google</string>
+    <string name="yeheun_title">‘예흔 공동체’는&#8230;</string>
+    <string name="yeheun_subtitle1">예수님의 흔적을 가슴에 새기고,\n그 흔적을 온 세상에 전하는</string>
+    <string name="yeheun_subtitle2">예수 그리스도의 사랑과 생명,\n소망과 기쁨이 넘치는 공동체입니다.</string>
+    <string name="yeheun_subtitle3">예배와 찬양, 나눔과 섬김의 자리에 여러분을 초대합니다.</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <!-- Main Activity -->
+    <string name="community">공동체 소개</string>
+    <string name="map">모임 안내</string>
+    <string name="bulletin">주보</string>
+    <string name="notice">청년부 소식</string>
+    <string name="visitor">새신자 소개</string>
+    <string name="pray">중보기도</string>
+
+    <!-- Community Activity -->
+    <string name="yeheun_subtitle4">예흔 공동체는 목장과 사역팀으로 구성되어 있습니다</string>
+    <string name="yeheun_subtitle5">주일 예배 후에 있는 목장 모임을 통해\n말씀과 삶을 진솔하게 나눕니다</string>
+    <string name="yeheun_subtitle6">전문화된 사역팀을 통하여 나눔과 섬김을 배웁니다</string>
+
+    <!-- Meeting Activity -->
+    <string name="worship1">예배 및 모임 안내</string>
+    <string name="worship2">주일예배</string>
+    <string name="worship3">매주 오후 2시</string>
+    <string name="worship4">금요 영성 집회</string>
+    <string name="worship5">매주 오후 7시 45분\n교회 본당</string>
+    <string name="meeting1">목장모임</string>
+    <string name="meeting2">예배 후 교회에서</string>
+    <string name="location1">주소 및</string>
+    <string name="location2">2801 E. Colorado Blvd.Pasadena, CA 91107</string>
+    <string name="contact">Tel. (626) 744–9191</string>
+    <string name="facility">시설 안내</string>
+
+    <!-- Bulletin Activity -->
+    <string name="url">URL</string>
+    <string name="upload">Upload</string>
+    <string name="pdfTitle">주보 URL</string>
+
+    <!-- Facility Activity -->
+    <string name="facilityMap">교회 시설</string>
+
+    <!-- Notice Activity -->
+    <string name="noticeTitle">제목</string>
+    <string name="noticeContent">내용</string>
+    <string name="noticeDate">날짜</string>
+
+    <!-- Pray Activity -->
+    <string name="prayTitle">이름</string>
+    <string name="prayContent">기도제목</string>
+    <string name="prayDate">날짜</string>
+
+    <!-- Manage Activity -->
+    <string name="manageBulletin">주보</string>
+    <string name="manageNotice">청년부 소식</string>
+    <string name="manageNewbie">새신자</string>
+    <string name="managePray">중보기도</string>
+    
+    <!-- NewComer Activity -->
+    <string name="newbieTitle">새신자 등록 카드</string>
+    <string name="newbieName">이름</string>
+    <string name="newbieBirth">생년월일</string>
+    <string name="newbieBirth2">생일</string>
+    <string name="newbieMale">남</string>
+    <string name="newbieFemale">녀</string>
+    <string name="newbieAddress">주소</string>
+    <string name="newbieContact">연락처</string>
+    <string name="newbieNew">초신자</string>
+    <string name="newbieBaptism">세례</string>
+    <string name="newbieRide">라이드</string>
+    <string name="newbieImage">Pick Image</string>
+
+    <!-- Calendar Activity -->
+    <string name="schedule">일정</string>
+
+    <!-- Phrase -->
+    <string name="phrase1">The lord is my strength and my shield.\nMy heart trusts in him, and he helps me.</string>
+    <string name="phrase2">Psalm 28:7</string>
+
+    <!-- Bottom navigation -->
+    <string name="bot_youtube">Youtube</string>
+    <string name="bot_instagram">Instagram</string>
+
+    <!-- Navigation -->
+    <string name="menu_access">Access Restricted</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_upload">Upload</string>
+    <string name="menu_logout">Logout</string>
+</resources>
